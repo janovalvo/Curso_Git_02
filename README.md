@@ -1,2 +1,3 @@
-# Curso_Git_02
-Repositorio curso git
+# Curso Git 02
+
+Repositorio curso git en Indra - Ciudad Real
